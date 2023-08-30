@@ -1,4 +1,5 @@
 
+![aalive-ai-seja-new-updat-ios on drv tw_alive%20ai%20-main_ (1)](https://github.com/seja-menath-de-silva/ALIVEAI_HOME/assets/142668041/2c7d02c9-19b6-4a3d-a0d9-059eac5ca453)
 
 
 # Welcome to Alive AI
@@ -40,7 +41,7 @@ If you encounter any issues or have questions about using Alive AI, our support 
 
 ## License
 Alive AI is licensed under the MIT License. See the [LICENSE](https://www.aliveai.com/license) file for details.
-![aalive-ai-seja-new-updat-ios on drv tw_alive%20ai%20-main_](https://github.com/seja-menath-de-silva/ALIVEAI_HOME/assets/142668041/df9e3c01-5444-489f-8ef4-b1f23fed19b3)
+
 
 ## Acknowledgments
 We'd like to thank the open-source community for their valuable contributions to natural language processing and AI advancements.
